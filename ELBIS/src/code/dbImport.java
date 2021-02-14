@@ -1,6 +1,6 @@
 /**
+ * @author Mohammed Ali Anis
  * This Class with methode to Import a Backup from csv to our DB
- * @author Mohammed Ali Anis, Hamze Ali
  */
 package code;
 

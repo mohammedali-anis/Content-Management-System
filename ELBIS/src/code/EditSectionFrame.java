@@ -1,6 +1,6 @@
 /**
+ * @author Mohammed Ali Anis
 * This Class creates an Interface for the Admin to create new Sections and Subsections
-* @author Mohammed Ali Anis, Alex, Sophie
 *
 */
 package code;

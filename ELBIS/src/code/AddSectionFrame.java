@@ -1,6 +1,6 @@
 /**
+ * @author Mohammed Ali Anis
  * This Class crates a Interface for Add Blog
- * @author Mohammed Ali Anis, Hamze Ali
  * 
  */
 package code;

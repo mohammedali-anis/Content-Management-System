@@ -1,6 +1,6 @@
 /**
+ * @author Mohammed Ali Anis
  * This Class crates a Interface for Delete Section
- * @author Mohammed Ali Anis, Hamze Ali
  * 
  */
 

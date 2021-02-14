@@ -1,11 +1,10 @@
 /**
+ * @author Mohammed Ali Anis
 * This Class creates an Interface to delete Users
-* @author Alex, Sophie
-*
 */
 
-
 package code;
+
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.sql.SQLException;
@@ -80,8 +79,9 @@ public class DeleteUserFrame extends JFrame {
 		msgLabel1.setBounds(6, 23, 426, 16);
 		panel.add(msgLabel1);
 		/**
-		 * ActionListener for deleteBtn
-		 * deletes User by using sqlConnection.sqlDeleteUser
+		 * ActionListener for deleteBtn deletes User by using
+		 * sqlConnection.sqlDeleteUser
+		 * 
 		 * @param user_id
 		 */
 		deleteBtn.addActionListener(l -> {

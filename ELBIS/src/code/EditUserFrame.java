@@ -1,11 +1,11 @@
 /**
 * This Class creates an Interface to edit already existing Users
-* @author Alex, Sophie
+* @author Mohammed Ali Anis
 *
 */
 
-
 package code;
+
 import java.awt.EventQueue;
 import java.sql.SQLException;
 import java.util.ArrayList;
@@ -185,8 +185,10 @@ public class EditUserFrame extends JFrame {
 		roleComboBox.setSelectedItem(dataList.get(4));
 		passwordField.setText(dataList.get(5));
 		confirmPasswordField.setText(dataList.get(5));
-		/**ActionListener for updateBtn 
-		 * updates the edited User to the DB using sqlConnection.sqlUpdateUser
+		/**
+		 * ActionListener for updateBtn updates the edited User to the DB using
+		 * sqlConnection.sqlUpdateUser
+		 * 
 		 * @param user_id
 		 */
 		updateBtn.addActionListener(l -> {

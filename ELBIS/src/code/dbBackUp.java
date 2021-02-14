@@ -1,6 +1,6 @@
 /**
+ * @author Mohammed Ali Anis
  * This Class with methode to Backup the DB to CSV files
- * @author Mohammed Ali Anis, Hamze Ali
  */
 package code;
 

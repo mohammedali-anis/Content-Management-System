@@ -1,6 +1,6 @@
 /**
+ * @author Mohammed Ali Anis
  * This Class to do almost of SQL Queries 
- * @author Mohammed Ali Anis, Hamze Ali
  * 
  */
 package code;

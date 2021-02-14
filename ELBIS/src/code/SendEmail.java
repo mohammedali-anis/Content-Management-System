@@ -1,7 +1,7 @@
 /**
+ * @author Mohammed Ali Anis
  * This Class with methodes to Send Email to the Editor when new post has to be proved 
  * and To the User with the decision of the Editor 
- * @author Mohammed Ali Anis, Hamze Ali
  */
 package code;
 import java.util.Properties;

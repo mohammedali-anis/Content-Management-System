@@ -1,6 +1,6 @@
 /**
+ * @author Mohammed Ali Anis
 * This Class creates an Interface for all User functions such as writing and editing Blogs
-* @author Mohammed Ali Anis, Hamze Ali
 *
 */
 package code;

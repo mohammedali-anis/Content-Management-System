@@ -1,7 +1,7 @@
 /**
+ * @author Mohammed Ali Anis
  * This Class crates a Interface for Register new User by Admin or Editor 
  * by writing the First and Lastname, username, Email, Role, password and select the Sections 
- * @author Mohammed Ali Anis, Hamze Ali
  */
 package code;
 

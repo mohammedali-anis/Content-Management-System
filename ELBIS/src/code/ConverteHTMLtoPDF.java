@@ -1,5 +1,5 @@
 /**
- * @author Aleksander Root, Christian Thassilo, Mohammed Ali Anis
+ * @author Mohammed Ali Anis
  */
 package code;
 

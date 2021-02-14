@@ -1,6 +1,6 @@
 /**
+ * @author Mohammed Ali Anis
  * This class is an Interface for the Editor to Accept or Reject the selected Blog 
- * @author Mohammed Ali Anis, Hamze Ali
  */
 package code;
 

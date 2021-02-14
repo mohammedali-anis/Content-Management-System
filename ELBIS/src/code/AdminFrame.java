@@ -1,6 +1,6 @@
 /**
+ * @author Mohammed Ali Anis
  * This Class crates a Interface for all Admin functions such as managing Users, Blogs and Sections
- * @author Alex, Sophie
  * 
  */
 

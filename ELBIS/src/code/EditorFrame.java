@@ -1,6 +1,6 @@
 /**
+ * @author Mohammed Ali Anis
  * This Class crates a Interface for all Editor functions such as managing Users and Blogs 
- * @author Alex, Mohammed Ali Anis, Sophie
  * 
  */
 package code;
